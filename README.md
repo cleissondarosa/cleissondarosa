@@ -1,7 +1,15 @@
 ### Olá, me chamo Cleisson👋
 - :bowtie: Eu sou dev android júnior com foco em linguagem Kotlin desenvolvi alguns projetos que estão aqui no github
 - :mag: Busco vaga na área
-## Contatos:
+
+#### Ferramentas e Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" />
+
+
+          
+#### Você pode falar comigo:
 
 <div>
 <a href = "mailto:cleisson.darosa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
