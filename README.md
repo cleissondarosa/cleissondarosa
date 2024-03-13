@@ -1,5 +1,5 @@
 ### Olá, me chamo Cleisson👋
-- :bowtie: Eu sou dev android júnior com foco em linguagem Kotlin desenvolvi alguns projetos que estão aqui no github
+- :bowtie: Eu sou dev android júnior com foco em linguagem Kotlin & Java desenvolvi alguns projetos que estão aqui no github
 - :mag: Estou em Busca da minha primeira oportunidade na área.
 
 #### Ferramentas e Tecnologias
